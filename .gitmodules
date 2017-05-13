@@ -1,0 +1,6 @@
+[submodule "edx-cs188"]
+	path = edx-cs188
+	url = git@github.com:ionlights/edx-cs188.git
+[submodule "cs188"]
+	path = cs188
+	url = git@github.com:ionlights/edx-cs188
